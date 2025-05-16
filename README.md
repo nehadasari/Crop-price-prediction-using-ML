@@ -14,6 +14,7 @@ RMSE: ~1.68e-59
 MAE: ~1.24e-15
 
 R² Score: 1.0
+
 These near-perfect results suggest a strong linear relationship, though they may also indicate overfitting or data leakage due to the small dataset size.
 
 Support Vector Regression (SVR):
@@ -25,4 +26,5 @@ RMSE: ~0.0381
 MAE: ~0.3730
 
 R² Score: ~0.63
+
 SVR provided a more realistic performance, showing a good fit with less risk of overfitting.
