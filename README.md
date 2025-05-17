@@ -19,12 +19,12 @@ These near-perfect results suggest a strong linear relationship, though they may
 
 Support Vector Regression (SVR):
 
-MSE: ~0.1951
+MSE: ~0.0115
 
-RMSE: ~0.0381
+RMSE: ~0.0001
 
-MAE: ~0.3730
+MAE: ~0.084
 
-R² Score: ~0.63
+R² Score: ~0.97
 
 SVR provided a more realistic performance, showing a good fit with less risk of overfitting.
